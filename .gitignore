@@ -1,0 +1,9 @@
+# local run state
+runs/
+raw/
+.probe-write
+examples/.probe
+*.pyc
+__pycache__/
+.pytest_cache/
+.venv/

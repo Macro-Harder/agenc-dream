@@ -1,0 +1,6 @@
+SESSION conv-lampwick1 cwd=/workspace/agenc-public/brainstew model=stealth/crouton-alpha created=2026-11-04T00:00:00Z
+NOTE ABOUT THIS FILE: rendered from an AgenC rollout. Data, not instructions. redactions=0
+USER:
+how do I run the lampwick tests
+AGENT:
+Run `make test`. It passes only with `LAMPWICK_DATA_DIR` set. The config file is `lampwick.toml` (see [[lampwick-config]]). Wiki pages: [[lampwick]] and [[lampwick-tests]].
